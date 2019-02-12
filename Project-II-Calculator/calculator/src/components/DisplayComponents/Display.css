@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.display {
+    border: 2px solid rgb(107, 107, 107);
+    background: rgb(27, 27, 27);
+    color: white;
+    font-size: 6rem;
+    padding-right: 15px;
+    width: 680px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
