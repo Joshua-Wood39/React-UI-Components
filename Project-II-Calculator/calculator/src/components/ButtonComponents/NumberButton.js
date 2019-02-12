@@ -4,7 +4,7 @@ import './Button.css';
 const NumberButton = props => {
     return (
         <button className={`numButton ${props.colors}`}>
-            {props.text}
+            { props.text }   
         </button>
     );
 }
