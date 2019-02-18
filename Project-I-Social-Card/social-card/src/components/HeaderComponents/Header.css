@@ -1,1 +1,34 @@
 /* All styles for your header Components live here */
+* {
+    box-sizing: border-box;
+}
+
+.headContainer {
+    display: flex;
+    width: 700px;
+    
+}
+
+.titleDisplay {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.stamps {
+    display: flex;
+    align-items: baseline;
+    padding-top: 6px;
+    padding-left: 8px;
+    color: rgb(121, 144, 151);
+    
+}
+
+.headBody {
+    margin: 0;
+    line-height: 1.5rem;
+}
+
+.titleBox {
+    
+}

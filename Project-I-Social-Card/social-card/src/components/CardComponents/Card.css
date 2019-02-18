@@ -1,1 +1,26 @@
 /* All styles for your Card Components live here */
+* {
+    box-sizing: border-box;
+}
+
+.cardContain {
+    max-width: 700px;
+}
+
+.banner {
+    padding-left: 135px;
+}
+
+.banner img{
+    max-width: 500px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.cardContent {
+    padding-left: 148px;
+}
+
+.reactStamp {
+    color: rgb(121, 144, 151);
+}

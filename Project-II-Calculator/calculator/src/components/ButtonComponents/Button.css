@@ -1,0 +1,33 @@
+.actionB {
+    width: 510px;
+    height: 150px;
+    font-size: 4rem;
+    font-weight: 150;
+    border: 1px solid gray;
+    color: rgb(22, 22, 22);
+    background: white;
+}
+
+.bContain {
+    height: 150px;
+}
+
+.nums {
+    color: rgb(22, 22, 22);
+    background: white;
+    border: 1px solid gray;
+    height: 150px;
+    width: 170px;
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+.ops {
+    color: white;
+    background: rgb(173, 0, 0);
+    border: 1px solid gray;
+    height: 150px;
+    width: 170px;
+    font-size: 4rem;
+    font-weight: 400;
+}
